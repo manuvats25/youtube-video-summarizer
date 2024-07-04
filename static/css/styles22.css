@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+body{
+    background-color: rgb(225, 247, 247) !important;
+height: 100%;
+}
+
+
+
+.boxpara{
+
+    /* border: 2px solid rgb(151, 102, 170) ; */
+    max-width: 955px;
+    /* margin:auto; */
+    /* height: 60vh; */
+    margin-top: 0px;
+    padding:10px 0px;
+    margin-bottom: 23px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    word-spacing: 2px;
+    background-color: aliceblue;
+    /* background-color: rgb(147, 142, 169); */
+    /* overflow-y: scroll ; */
+}
+
+.videotitle{
+    font-size: 35px ;
+    color: blue;
+    font-weight: 500;
+}
+.parabox{
+    max-width: 955px;
+    margin: auto;
+    width: 80%;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+.parabox h1{
+    font-size: 40px;
+
+}
+.parabox h2{
+    font-size: 35px;
+
+    margin-bottom: 0;
+}
+footer {
+    position: fixed;
+    min-height: 30px;
+    padding: auto;
+    bottom: 0;
+    background-color: rgb(108, 189, 229);
+    width: 100%;
+    margin-left: -8px;
+
+  }
+footer p{
+    margin: auto;
+    padding-top: 5px;
+    text-align: center;
+
+  }
+.download a button{
+    font-size: 15px ;
+
+}
+.feature{
+    display: flex;
+  margin-bottom: 200px ;
+}
+.copy{
+    margin-right: 15px;
+}
+.header {
+    background-color: rgb(96, 176, 198);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding:10px;
+  }
+  .header a img {
+    margin-left: 25px;
+    color: white;
+  }
+  .header a h1 {
+    color: rgb(255, 255, 255);
+  }
+  .header a{
+    text-decoration: none !important;
+    display: inline-flex;
+  }
+  a:hover{
+    text-decoration: underline;
+
+  }
+
+
+/* for loading */
+.centered {
+    text-align: center;
+}
+
+.lds-facebook {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.lds-facebook div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 16px;
+    background: #fcf;
+    animation: lds-facebook 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+
+.lds-facebook div:nth-child(1) {
+    left: 8px;
+    animation-delay: -0.24s;
+}
+
+.lds-facebook div:nth-child(2) {
+    left: 32px;
+    animation-delay: -0.12s;
+}
+
+.lds-facebook div:nth-child(3) {
+    left: 56px;
+    animation-delay: 0;
+}
+
+@keyframes lds-facebook {
+    0% {
+        top: 8px;
+        height: 64px;
+    }
+
+    50%,
+    100% {
+        top: 24px;
+        height: 32px;
+    }
+}
+

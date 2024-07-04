@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <title>Python Flask</title>
+</head>
+<body>
+  <header>
+  <div class="header">
+    <a href='/'>
+    <img src="../static/css/spon2.png" alt="logo" width="70" height="70" />
+    <h1> You tube video Summarizer </h1>
+      </a>
+  </div>
+    </header>
+  
+  <form action='/loading' method= 'POST' class='container_form'>
+    
+    <div class="form-group">
+      <label for="exampleInputEmail1">URL address</label>
+      <input type="url" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter url" name="video_url">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+   
+
+    <button type="submit" class="btn btn-primary">Summarize</button>
+  </form>
+
+  <div class="cards">
+    <div class="card1">
+
+        <div>
+          <h1 style="font-size: 49px; font-weight: bold;">What is Text Summarization?</h1>
+            <p>YouTube video Summarizer is an online summarizing tool that allows you to summarize long video with their main concept in one click.
+              It analyzes the entire video and picking up the most important concepts. The automatic summarization of any video is the process of shortening a specific set of data to get the most important information.
+              It is the process of creating a short summary of useful data by getting the main points written in the content.
+              Our summarizer the best appropriate sentences and generates the perfect summary of the given youtube video.</p>
+          </div>
+        <img src="../static/css/question.png" alt="logo" width="450" height="450" />
+
+    </div>
+    <div class="card2">
+      <img src="../static/css/happy.png" alt="logo" width="450" height="450" />
+      <div>
+
+        <h1 style="font-size: 49px; font-weight: bold;">Why use our Summarizer and How to use this ?</h1>
+        <p style="font-size: 22px;">Whether you have a long teaching youtube video or any other youtube video, this summarize tool will provide the exact information that you want.
+          <br> To use this summarizing tool, follow the below guideline:<br>
+          <ul style="font-size: 18px;">
+            <li>Write or paste the youtube video url in the above input box.</li>
+            <li>Click the Summarize button.</li>
+            <li>This summary tool will take all the important concepts, condense the input text and generates an accurate summarize text report within a fraction of a second.</li>
+
+          </ul>
+      </div>
+
+    </div>
+  </div>
+  <div class="feat_ex">
+    <h1 style="text-align: center; font-size: 49px; font-weight: 500; margin-bottom: 15px; font-weight:bolder ;">Features</h1>
+    <div class="contain_feat">
+      <div class="accurate">
+        <h2 style="font-weight: bold;" >Accurate Summarized Text</h2>
+        <p>The text summarizer tool uses advanced algorithms to create an accurate overview of your text.
+
+          Remember, it doesn’t change the meaning of any text. It only analyzes the text and generates the best-summarized text report.</p>
+      </div>
+      <div class="copy_fe">
+        <h2 style="font-weight: bold;">Copy the Result Data</h2>
+        <p>This feature helps users to copy the condensed text just within a single click.</p>
+
+      </div>
+      <div class="delete_fe">
+        <h2 style="font-weight: bold;">Download the File</h2>
+        <p>The summary generator tool allows users to download the result file in doc format. </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+    <footer >
+        <p> Copyright © 2023 You tube video summarizer. All rights reserved | Terms and conditions</p>
+      </footer>
+    </div>
+
+</body>
+
+
+
+
+
+

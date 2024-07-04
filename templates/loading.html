@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles22.css') }}">
+    <title>Loading page</title>
+</head>
+
+<body>
+    <h1 class="centered">Loading page...</h1>
+
+    <p class="centered"> </p>
+    <div class="centered">
+        <div class="lds-facebook">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <p class="centered">Once the job is done. page will load .</p>
+</body>
+<!-- <script>window.location.href = "{{ url_for('results') }}";</script> -->
+  <script>
+      function navigate() {
+        window.location.href = "{{ url_for('results') }}";  // Redirects user to the /map route when 'create_map' is finished
+      }
+      fetch('process_url').then(navigate); // Performing 'create_map' and then calls navigate() function, declared above
+  </script>
+
+</html>

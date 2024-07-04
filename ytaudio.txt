@@ -1,0 +1,1627 @@
+helo[VIDEO PLAYBACK]. [MUSIC PLAYING]. - Since day one, we set out to
+significantly improve the lives. of as many people as possible.. And with a little help,
+you found new answers,. discovered new places.. The right words came
+at just the right time,. and we even learned how to
+spell the word "epicurean.". - R-I-A-N.. - Life got a little easier.. Our photos got a little better.. And we got closer to a
+world where we all belong.. - All stations ready
+to resume count.. 3, 2, 1, we have liftoff!. - So as we stand on the cusp
+of a new era, new breakthroughs. in AI, will reimagine
+the ways we can help.. We will have the chance to
+improve the lives of billions. of people.. We will give businesses
+the opportunity. to thrive and grow and help
+society answer the toughest. questions we have to face.. Now, we don't take
+this for granted.. So while our ambition
+is bold, our approach. will always be responsible,
+because our goal is to make. AI helpful for everyone.. [MUSIC PLAYING]. [END PLAYBACK]. [CHEERS, APPLAUSE].. 
+heloWelcome to Google I/O.. [APPLAUSE]. It's great to see so many
+of you here at Shoreline,. so many developers.. And a huge thanks
+to the millions. joining from around the
+world, from Bangladesh. to Brazil to our new Bayview
+campus right next door.. It's so great to
+have you, as always.. As you may have heard, AI
+is having a very busy year,. so we've got lots to talk about.. Let's get started.. Seven years into our journey
+as an AI-first company,. we are at an exciting
+inflection point.. We have an opportunity to
+make AI even more helpful. for people, for businesses,
+for communities, for everyone.. We have been applying AI to
+make our products radically more. helpful for a while.. With generative AI, we
+are taking the next step.. With a bold and
+responsible approach,. we are reimagining all our core
+products, including Search.. You will hear more
+later in the keynote.. Let me start with a
+few examples of how. generative AI is helping
+to evolve our products,. starting with Gmail.. In 2017, we launched
+Smart Reply,.. 
+heloNext came Smart Compose, which
+offered writing suggestions. as you type.. Smart Compose led to more
+advanced writing features. powered by AI.. They've been used in Workspace
+over 180 billion times. in the past year alone.. And now, with a much more
+powerful generative model,. we are taking the next step
+in Gmail with Help Me Write.. Let's say you got this email
+that your flight was canceled.. The airline has sent a voucher,
+but what you really want. is a full refund.. You could reply and
+use Help Me Write.. Just type in the
+prompt of what you. want, an email to ask for
+a full refund, hit Create,. and a full draft appears.. As you can see, it conveniently
+pulled in flight details. from the previous email.. And it looks pretty close
+to what you want to send.. Maybe you want to
+define it further.. In this case, a
+more elaborate email. might increase the chances
+of getting the refund.. [LAUGHTER]. [APPLAUSE]. And there you go.. I think it's ready to send.. Help Me Write will
+start rolling out.. 
+heloAnd just like with
+Smart Compose,. you will see it get
+better over time.. The next example is Maps.. Since the early
+days of Street View,. AI have stitched together
+billions of panoramic images. so people can explore the
+world from their device.. At last year's I/O, we
+introduced Immersive View,. which uses AI to
+create a high fidelity. representation of a place
+so you can experience it. before you visit.. Now, we are expanding
+that same technology. to do what Maps does best--. help you get where
+you want to go.. Google Maps provides
+20 billion kilometers. of directions every day.. That's a lot of trips.. Imagine if you could see
+your whole trip in advance.. With Immersive View
+for Routes, now you. can, whether you're walking,
+cycling, or driving.. Let me show you what I mean.. Say I'm in New York City and
+I want to go on a bike ride.. Maps has given me a couple of
+options close to where I am.. I like the one on
+the waterfront,. so let's go with that.. Looks scenic.. I want to get a
+feel for it first... 
+heloand it's an entirely new
+way to look at my journey.. I can zoom in to get an
+incredible bird's eye. view of the ride.. And as we turn, we get
+onto a great bike path.. [APPLAUSE]. It looks like it's going
+to be a beautiful ride.. You can also check
+today's air quality.. Looks like AQI is 43--. pretty good.. And if I want to check
+traffic and weather. and see how they might change
+over the next few hours,. I can do that.. Looks like it's
+going to pour later.. So maybe I want
+to get going now.. Immersive View for
+Routes will begin. to roll out over the summer
+and launch in 15 cities. by the end of the year,
+including London, New. York, Tokyo, and San Francisco.. [APPLAUSE]. Another product made better
+by AI is Google Photos.. We introduced it at I/O in 2015.. It was one of our first
+AI-native products.. Breakthroughs in
+machine learning. made it possible to search your
+photos for things like people,. sunsets, or waterfalls.. Of course, we want you to do
+more than just search photos.. We also want to help
+you make them better... 
+heloare edited in Google Photos.. AI advancements give us more
+powerful ways to do this.. For example, Magic Eraser,
+launched first on Pixel,. uses AI-powered
+computational photography. to remove unwanted distractions.. And later this year,
+using a combination. of semantic understanding
+and generative. AI, you can do much more
+with a new experience. called Magic Editor.. Let's have a look.. Say you are on a
+hike and you stop. to take a photo in
+front of a waterfall.. You wish you had taken
+your bag off for the photo,. so let's go ahead and
+remove that back strap.. The photo feels a bit dark, so
+you can improve the lighting.. And maybe you want to even
+get rid of some clouds. to make it feel as sunny
+as you remember it.. Looking even
+closer, you wish you. had posed so it looks like
+you're really catching. the water in your hand.. No problem-- you
+can adjust that.. [APPLAUSE]. There you go.. Let's look at one more photo.. This is a great photo,
+but as a parent,. you always want your kid
+at the center of it all... 
+heloSo you can go ahead and
+reposition the birthday boy.. Magic Editor
+automatically recreates. parts of the bench and
+balloons that were not. captured in the original shot.. As a finishing touch,
+you can punch up the sky.. It changes the lighting
+in the rest of the photo.. So the Edit feels consistent.. It's truly magical.. We are excited to roll out
+Magic Editor in Google Photos. later this year.. From Gmail and
+Photos to Maps, these. are just a few examples of
+how AI can help you in moments. that matter.. And there is so
+much more we can do. to deliver the full
+potential of AI. across the products
+you know and love.. Today, we have 15
+products that each. serve more than half a
+billion people and businesses.. And six of those products sell
+over 2 billion users each.. This gives us so
+many opportunities. to deliver on our mission,
+to organize the world's. information, and
+make it universally. accessible and useful.. It's a timeless
+mission that feels. more relevant with
+each passing year... 
+helois the most profound way we
+will advance our mission.. And we are doing this
+in four important ways.. First, by improving
+your knowledge. and learning and deepening your
+understanding of the world.. Second, by boosting
+creativity and productivity. so you can express yourself
+and get things done.. Third, by enabling
+developers and businesses. to build their own
+transformative products. and services.. And finally, by building and
+deploying AI responsibly so. that everyone can
+benefit equally.. We are so excited by
+the opportunities ahead.. Our ability to make AI
+helpful for everyone. relies on continuously
+advancing our foundation models.. So I want to take
+a moment to share. how we are approaching them.. Last year, you heard
+us talk about PaLM,. which led to many improvements
+across our products.. Today, we are ready to
+announce our latest PaLM model. in production, PaLM 2.. [APPLAUSE]. PaLM 2.. This is one of our fundamental
+research and our latest. infrastructure.. It's highly capable at
+a wide range of tasks,.. 
+heloWe are announcing over 25
+products and features powered. by PaLM 2 today.. PaLM 2 models deliver excellent
+foundational capabilities. across a wide range of sizes.. We have affectionately named
+them gecko, otter, bison,. and unicorn.. Gecko's so lightweight
+that it can. work on mobile
+devices, fast enough. or great interactive
+applications on device. even when offline.. PaLM 2 models are stronger
+in logic and reasoning thanks. to broad training on scientific
+and mathematical topics.. It's also trained on
+multilingual text,. spanning over 100 languages
+so to understand and generate. nuanced results.. Combined with powerful
+coding capabilities,. PaLM 2 can also help developers
+collaborating around the world.. Let's look at this example.. Let's say you're working
+with a colleague in Seoul. and you're debugging code.. You can ask it to fix
+a bug and help out. your teammate by adding
+comments in Korean to the code.. It first recognizes the code
+is recursive, suggests a fix,. and even explains the
+reasoning behind the fix... 
+helojust like you asked.. [APPLAUSE]. While PaLM 2 is highly
+capable, it really. shines when fine-tuned on
+domain-specific knowledge.. We recently released
+Sec-PaLM, version of PaLM 2. fine-tuned for
+security use cases.. It uses AI to better
+detect malicious scripts,. and can help security experts
+understand and resolve threats.. Another example is Med-PaLM 2.. In this case, it's fine-tuned
+on medical knowledge.. This fine-tuning
+achieved a 9x reduction. in inaccurate reasoning
+when compared to the model,. approaching the performance
+of clinician experts. who answered the same
+set of questions.. In fact, Med-PaLM 2 was
+the first language model. to perform an expert level on
+medical licensing exam-style. questions, and is currently
+the state of the art.. We are also working to add
+capabilities to Med-PaLM 2. so that it can
+synthesize information. from medical imaging, like
+plain films and mammograms.. You can imagine
+an AI collaborator. that helps radiologists
+interpret images. and communicate the results... 
+helobeing used in
+specialized domains.. We can't wait to
+see it used in more.. That's why I'm pleased to
+announce that it is now. available in Preview.. And I'll let Thomas share more.. [APPLAUSE]. PaLM 2 is the latest step
+in our decade long journey. to bring AI in responsible
+ways to billions of people.. It builds on progress made
+by two world-class teams,. the Brain Team and DeepMind.. Looking back at the
+defining AI breakthroughs. over the last
+decade, these teams. have contributed to a
+significant number of them--. AlphaGo, transformers,
+sequence-to-sequence models,. and so on.. All this helps set the stage
+for the inflection point. we are at today.. We recently brought
+these two teams together. into a single unit,
+Google DeepMind.. Using the computational
+resources of Google,. they are focused on building
+more capable systems safely. and responsibly.. This includes our
+next-generation foundation. model, Gemini, which
+is still in training.. Gemini was created
+from the ground up. to be multi-modal,
+highly efficient at tool.. 
+helolike memory and planning.. While still early,
+we are already. seeing impressive multimodal
+capabilities not seen. in prior models.. Once fine-tuned and
+rigorously tested for safety,. Gemini will be available at
+various sizes and capabilities,. just like PaLM 2.. As we invest in more
+advanced models,. we are also deeply investing
+in AI responsibility.. This includes having the tools
+to identify synthetically. generated content
+whenever you encounter it.. Two important approaches are
+watermarking and metadata.. Watermarking embeds information
+directly into content. in ways that are maintained even
+through modest image editing.. Moving forward, we are
+building our models. to include watermarking
+and other techniques. from the start.. If you look at a
+synthetic image,. it's impressive
+how real it looks.. So you can imagine
+how important this. is going to be in the future.. Metadata allows
+content creators to. associate additional
+contexts with original files,. giving you more
+information whenever.. 
+heloWe'll ensure every one of
+our AI-generated images. has that metadata.. James will talk about
+our responsible approach. to AI later.. As models get better
+and more capable,. one of the most
+exciting opportunities. is making them available for
+people to engage with directly.. That's the opportunity we
+have at Bard, our experiment. for conversational AI.. We are rapidly evolving Bard.. It now supports a wide range
+of programming capabilities,. and it's gotten much smarter
+at reasoning and math problems.. And as of today, it is now
+fully running on PaLM 2.. To share more about
+what's coming,. let me turn it over to Sissie.. [MUSIC PLAYING]. [APPLAUSE]. SISSIE HSIAO: Thanks, Sundar.. Large language models
+have captured the world's. imagination,
+changing how we think. about the future of computing.. We launched Bard as a
+limited-access experiment. on a lightweight,
+large language model. to get feedback and iterate.. And since then, the team
+has been working hard. to make rapid improvements
+and launch them quickly... 
+helomade a huge leap forward,
+underpinning its ability. to help developers
+with programming.. Bard can now collaborate on
+tasks like code generation,. debugging, and
+explaining code snippets.. Bard has already learned more
+than 20 programming languages,. including C++, Go,
+JavaScript, Python, Kotlin,. and even Google
+Sheets functions.. And we're thrilled to see
+that coding has quickly. become one of the
+most popular things. that people are doing with Bard.. So let's take a
+look at an example.. I've recently been
+learning chess,. and for fun, I
+thought I'd see if I. can program a move in Python.. How would I use Python to
+generate the "scholar's mate". move in chess?. OK.. Here, Bard created a script
+to recreate this chess. move in Python.. And notice how it also
+formatted the code nicely,. making it easy to read.. We've also heard great feedback
+from developers about how. Bard provides code citations.. And starting next week, you'll
+notice something right here.. We're making code citations
+even more precise... 
+helojust click this annotation, and
+Bard will underline the block. and link to the source.. Now, Bard can also help
+me understand the code.. Could you tell me what
+chess.board does in this code?. Now, this is a super
+helpful explanation. of what it's doing and
+makes things more clear.. Let's see if we can make
+this code a little better.. How would I improve this code?. Let's see.. There's a list comprehension,
+creating a function,. and using a generator .. Those are some
+great suggestions.. Now, could you join them into
+one single Python code block?. Now, Bard is rebuilding the
+code with these improvements.. OK, great.. How easy was that?. And in a couple clicks, I can
+move this directly into Colab.. Developers love the ability
+to bring code from Bard. into their workflow,
+like to Colab.. So coming soon, we're
+adding the ability. to export and run code
+with our partner Replit,. starting with Python.. [APPLAUSE]. We've also heard that
+you want dark theme,. so starting today,
+you can activate it... 
+heloYou can activate
+it right in Bard. or let it follow
+your OS settings.. And speaking of
+exporting things,. people often ask
+Bard for a head start. drafting emails and documents.. So today, we are launching
+two more export actions,. making it easy to move
+Bard's responses right. into Gmail and Docs.. [APPLAUSE]. So we're excited by how quickly
+Bard and the underlying models. are improving, but we're
+not stopping there.. We want to bring more
+capabilities to Bard. to fuel your curiosity
+and imagination.. And so I'm excited to announce
+that tools are coming to Bard.. [APPLAUSE]. As you collaborate
+with Bard, you'll. be able to tap into
+services from Google. and extensions with partners to
+let you do things never before. possible.. And of course, we'll
+approach this responsibly,. in a secure and private
+way, letting you always stay. in control.. We're starting with
+some of the Google Apps. that people love
+and use every day.. It's incredible what Bard
+can already do with text,. but images are such
+a fundamental part.. 
+heloSo in the next few weeks,
+Bard will become more visual,. both in its responses
+and your prompts.. So if you ask, what are some
+must-see sites in New Orleans,. Bard's going to use Google
+Search and the knowledge graph. to find the most
+relevant images.. Here we go.. The French Quarter,
+the Garden District.. These images are really
+giving me a much better sense. of what I'm exploring.. We'll also make it easy for
+you to prompt Bard with images,. giving you even more ways
+to explore and create.. People love Google Lens,
+and in the coming months,. we're bringing the
+powers of Lens to Bard.. [APPLAUSE]. So if you're looking to have
+some fun with your fur babies,. you might upload
+an image and ask. Bard to write a funny
+caption about these two.. Lens detects that
+this is a photo. of a goofy German shepherd
+and a golden retriever,. and then Bard uses that to
+create some funny captions.. If you ask me, I think
+they're both good boys.. Now,. Let's do another one.. Imagine I'm 18 and I
+need to apply to college... 
+helobut it's still an
+overwhelming process.. So I'm thinking about
+colleges, but I'm not. sure what I want to focus on.. I'm into video games.. And what kinds of programs
+might be interesting?. OK, this is a
+helpful head start.. Hmm, animation looks
+pretty interesting.. Now, I could ask,
+help me find colleges. with animation programs
+in Pennsylvania.. OK, great.. That's a good list of schools.. Now, to see where these
+are, I might now say,. show these on a map.. Here, Bard's going to use
+Google Maps to visualize. where the schools are.. [APPLAUSE]. This is super helpful,
+and it's exciting to see. that there's plenty of
+options not too far from home.. Now, let's start
+organizing things a bit.. Show these options as a table.. Nice-- structured and organized.. But there's more I want to know.. Add a column showing
+whether they're. public or private schools.. [APPLAUSE]. Perfect.. This is a great
+start to build on.. And now, let's move
+this to Google Sheets. so my family can jump in later
+to help me with my search... 
+heloYou can see how easy it will
+be to get a jump start in Bard. and quickly have something
+useful to move over. to apps like Docs or Sheets
+to build on with others.. OK, now that's a taste of
+what's possible when Bard. meets some of Google's apps.. But that's just the start.. Bard will be able to tap
+into all kinds of services. from across the
+web, with extensions. from incredible
+partners like Instacart,. Indeed, Khan Academy,
+and many more.. So here's a look at one coming
+in the next couple of months.. With Adobe Firefly,
+you'll be able to generate. completely new images from
+your imagination right in Bard.. Now, let's say I'm
+planning a birthday. party for my seven-year-old,
+who loves unicorns.. I want a fun image to send
+out with the invitations.. Make an image of a unicorn
+and a cake at a kid's party.. Now, Bard is
+working with firefly. to bring what I
+imagined to life.. [APPLAUSE]. How amazing is that?. This will unlock
+all kinds of ways. that you can take your
+creativity further and faster... 
+heloBard continues to
+rapidly improve and learn. new abilities, and we want to
+let people around the world. try it out and share
+their feedback.. So today, we are
+removing the waitlist. and opening up Bard to over
+180 countries and territories--. [APPLAUSE]. --with more coming soon.. And in addition to becoming
+available in more places,. Bard is also becoming
+available in more languages.. Beyond English,
+starting today, you'll. be able to talk to Bard
+in Japanese and Korean.. Adding languages responsibly
+involves deep work. to get things like quality
+and local nuances right.. And we're pleased to share
+that we're on track to support. 40 languages soon.. [APPLAUSE]. It's amazing to see the
+rate of progress so far--. more advanced models, so
+many new capabilities,. and the ability for
+even more people. to collaborate with Bard.. And when we're ready to move
+Bard to our Gemini model,. I'm really excited about
+more advancements to come.. So that's where we're going
+with Bard, connecting tools.. 
+heloto help you do and create
+anything you can imagine. through a fluid
+collaboration with our most. capable, large language models.. There's so much to
+share in the days ahead.. And now, to hear more about
+how large language models are. enabling next-generation
+productivity features right. in Workspace, I'll
+hand it over to Aparna.. [MUSIC PLAYING]. [APPLAUSE]. APARNA PAPPU: From
+the very beginning,. Workspace was built to allow
+you to collaborate in real time. with other people.. Now, you can collaborate
+in real time with AI.. AI can act as a coach,
+a thought partner,. a source of
+inspiration, as well as. a productivity booster across
+all of the apps of Workspace.. Our first steps with
+AI as a collaborator. were via the Help Me Write
+feature in Gmail and Docs,. which launched to
+trusted testers in March.. We've been truly blown away by
+the clever and creative ways. these features are being
+used, from writing essays,. sales pitches, project
+plans, client outreach,. and so much more.. Since then, we've
+been busy expanding.. 
+heloLet me show you a few examples.. One of our most
+popular use cases. is the trusty job description.. Every business, big or
+small, needs to hire people.. A good job description can
+make all the difference.. Here's how Docs
+has been helping.. Say you run a fashion
+boutique and need. to hire a textile designer.. To get started, you enter
+just a few words as a prompt.. Senior-level job description
+for textile designer.. Docs will take that prompt,
+send it to a PaLM 2-based model,. and let's see what I got back.. Not bad.. With just seven words,
+the model came back. with a good starting
+point written out really. nicely for me.. Now, you can take
+that and customize it. for the kind of experience,
+education, and skill set. that this role needs, saving
+you a ton of time and effort.. Next--. [APPLAUSE]. --let me show you how you can
+get more organized with Sheets.. Imagine you run a
+dog walking business. and need to keep track of things
+like your clients, logistics. about the dogs, like what
+time they need to be walked,.. 
+heloSheets can help
+you get organized.. In a new sheet,
+simply type something. like "client and pet roster
+for a dog walking business. with rates" and hit Create.. Sheets sends this input
+to a fine-tuned model. that we've been training with
+all sorts of Sheets-specific. use cases.. Look at that.. The model--. [APPLAUSE]. The model figured out
+what you might need.. The generated table has
+things like the dog's name,. client info, notes, et cetera.. This is a good start
+for you to tinker with.. Sheets made it
+easy for you to get. started so you can go back
+to doing what you love.. Speaking of getting
+back to things. you love, let's talk
+about Google Slides.. People use Slides for
+storytelling all the time,. whether at work or in
+their personal lives.. For example, you get
+your extended family. to collect anecdotes,
+haikus, jokes. for your parents' 50th wedding
+anniversary in a slide deck.. Everyone does their bit.. But maybe this deck
+could have more pizzazz.. Let's pick one of the slides
+and use the poem on there.. 
+helo"Mom loves her pizza,
+cheesy and true,. while dad's favorite treat
+is a warm pot of fondue.". Let's hit Create and see
+what it comes up with.. Behind the scenes, that quote
+is sent as an input to our text. to image models.. And we know it's unlikely
+that the user will. be happy with just one option,
+so we generate about six. to eight images so that
+you have the ability. to choose and refine.. Whoa, I have some oddly
+delicious-looking fondue pizza. images.. Now, this style is a
+little too cartoony for me.. So I'm going to ask
+it to try again.. Let's change the
+style to photography. and give it a whirl.. Just as weird, but
+it works for me.. You can have endless
+fun with this,. with no limits on
+cheesiness or creativity.. Starting next month,
+trusted testers. will be able to try this and
+six more generative AI features. across Workspace.. And later this year,
+all of this will. be generally available
+to business and consumer. Workspace users via
+a new service called. Duet AI for Workspace... 
+heloStepping back a bit, I showed
+you a few powerful examples. of how Workspace can help
+you get more done with just. a few words as prompts.. Prompts are a powerful way
+of collaborating with AI.. The right prompt can unlock
+far more from these models.. However, it can be
+daunting for many of us. to even know where to start.. Well, what if we could
+solve that for you?. What if AI could proactively
+offer you prompts?. Even better, what if these
+prompts were actually. contextual and changed based
+on what you are working on?. I am super excited to show
+you a preview of just that.. This is how we see the
+future of collaboration. with AI coming to life.. Let's switch to a live
+demo so I can show you. what I mean Tony's here
+to help me with that.. Hey, Tony.. TONY: Hey, Aparna.. APARNA PAPPU: So--. [APPLAUSE]. My niece Mira and I are
+working on a spooky story. together for summer camp.. We've already written
+a few paragraphs.. But now, we're stuck.. Let's get some help.. As you can see, we launch a
+side panel, something the team.. 
+heloSidekick instantly reads
+and processes the document. and offers some really
+neat suggestions,. along with an open
+prompt dialog.. If we look closely, we can
+see some of the suggestions,. like what happened to
+the golden seashell?. What are common
+mystery plot twists?. Let's try the seashell
+option and see. what it comes back with.. Now, what's happening
+behind the scenes. is that we've provided
+the entire document. as context to the model, along
+with the suggested prompt.. And let's see what we got back.. The golden seashell was
+eaten by a giant squid. that lives in the cove.. This is a good start.. Let's insert these
+notes so that we can. continue our little project.. Now, one of the interesting
+observations we have. is that it's actually easier
+to react to something,. or perhaps use that
+to say, hmm, I want. to go in a different direction.. And this is exactly
+what AI can help with.. I see a new suggestion on
+there for generating images.. Let's see what this does.. The story has a village,
+a golden seashell,.. 
+heloAnd instead of having
+to type all of that out,. the model picks up these
+details from the document. and generates images.. These are some cool
+pictures, and I. bet my niece will love these.. Let's insert them
+into the dock for fun.. Thank you, Tony.. [APPLAUSE]. I'm going to walk you
+through some more examples,. and this will help you see why
+this powerful new contextual. collaboration is such
+a remarkable boost. to productivity and creativity.. Say you're writing
+to your neighbors. about an upcoming potluck.. Now, as you can see,
+Sidekick has summarized what. this conversation is about.. Last year, everyone
+brought hummus.. Who doesn't love hummus?. But this year, you want
+a little more variety.. Let's see what people
+signed up to bring.. Well, somewhere in this thread
+is a Google Sheet where you've. collected that information.. You can get some help
+by typing, "write. a note about the main
+dishes people are bringing.". And let's see what we get back.. Let's go.. Awesome.. It found the right Sheet and
+cited the source in the Found.. 
+helothat this is not made up.. It looks good.. You can insert it
+directly into your email.. Let's end with an example of
+how this can help you at work.. Say you're about to give
+an important presentation,. and you've been so
+focused on the content. that you forgot to
+prepare speaker notes.. The presentation is in an hour.. Uh-oh.. No need to panic.. Look at what one of
+the suggestions is.. Create speaker notes
+for each slide.. Let's see what happened.. [APPLAUSE]. What happened behind
+the scenes here. is that the presentation
+and other relevant context. was sent to the model to
+help create these notes.. And once you've
+reviewed them, you. can hit Insert
+and edit the notes. to convey what you intended.. So you can now deliver
+the presentation. without worrying
+about the notes.. As you can see,
+we've been having. a ton of fun playing with this.. We can see the true potential
+of AI as a collaborator.. And we'll be bringing
+this experience. to Duet AI for Workspace.. With that, I'll hand
+it back to Sundar... 
+helo[APPLAUSE]. SUNDAR PICHAI: Thanks, Aparna.. It's exciting to see
+all the innovation. coming to Google Workspace.. As AI continues to
+improve rapidly,. we have focused on giving
+helpful features to our users.. And starting today, we
+are giving you a new way. to preview some
+of the experiences. across Workspace
+and other products.. It's called Labs.. I say "new," but Google has a
+long history of bringing Labs,. and we've made it available
+throughout our history as well.. You can check it out
+at google.com/labs.. Next up, we're going
+to talk about Search.. Search has been our founding
+product from our earliest days,. and we always approached
+it placing user trust. above everything else.. To give you a sense
+of how we are bringing. generative AI in
+Search, I'm going. to invite Cathy onto the stage.. Cathy?. [APPLAUSE]. [MUSIC PLAYING]. CATHY EDWARDS: Thanks, Sundar.. I've been working in
+Search for many years.. And what inspires me so
+much is how it continues. to be an unsolved problem.. And that's why I'm just so
+excited by the potential.. 
+heloLet's give it a whirl.. So let's start with
+a search for "what's. better for a family
+with kids under three. and a dog, Bryce
+Canyon or Arches?". Now, although this is the
+question that you have,. you probably wouldn't
+ask it in this way today.. You'd break it down
+into smaller ones,. sift through the information,
+and then piece things. together yourself.. Now, Search does the
+heavy lifting for you.. What you see here
+looks pretty different.. So let me first give
+you a quick tour.. You'll notice the new,
+integrated search results page. so you can get even more
+out of a single search.. There's an AI-powered snapshot
+that quickly gives you. the lay of the land on a topic.. And so here you can see
+that while both parks are. kid-friendly, only
+Bryce Canyon has more. options for your furry friend.. Then if you want to
+dig deeper, there. are links included
+in the snapshot.. You can also click
+to expand your view.. And you'll see how the
+information is corroborated. so you can check
+out more details.. 
+heloThis new experience builds on
+Google's ranking and safety. systems that we've been
+fine-tuning for decades.. And Search will continue to be
+your jumping-off point to what. makes the web so special,
+its diverse range of content,. from publishers to
+creatives, businesses,. and even people like you and me.. So you can check
+out recommendations. from experts, like the
+National Park Service,. and learn from authentic,
+firsthand experiences,. like the Mom Trotter Blog,
+because even in a world where. AI can provide insights, we know
+that people will always value. the input of other people.. And a thriving web
+is essential to that.. These new generative AI--. thank you.. [APPLAUSE]. These new generative
+AI capabilities. will make such smarter
+and searching simpler.. And as you've seen, this is
+really especially helpful. when you need to make
+sense of something complex,. with multiple angles to explore.. You know, those times when even
+your question has questions.. So for example, let's
+say you're searching.. 
+heloThis can be a big purchase, so
+you want to do your research.. In the AI-powered
+snapshot, you'll. see important considerations
+like motor and battery. for taking on those
+hills and suspension. for a comfortable ride.. Right below that,
+you'll see products. that fit the bill,
+each with images,. reviews, helpful descriptions,
+and current pricing.. This is built on
+Google's Shopping graph,. the world's most
+comprehensive data. set of constantly changing
+products, sellers, brands,. reviews, and
+inventory out there,. with over 35 billion listings.. In fact, there are 1.8 billion
+live updates to our Shopping. graph every hour.. So you can shop with confidence
+in this new experience,. knowing that you'll get
+fresh, relevant results.. And for commercial
+queries like this,. we also know that
+ads can be especially. helpful to connect people
+with useful information. and help businesses
+get discovered online.. They're here, clearly labeled.. And we're exploring
+different ways. to integrate them as we roll
+out new experiences in Search... 
+heloyou might want to explore more.. So right under the
+snapshot, you'll. see the option to ask
+a follow-up question. or select a suggested next step.. Tapping any of these
+options will bring you. into our brand-new
+conversational mode.. [APPLAUSE]. In this case, maybe you want to
+ask a follow-up about e-bikes,. so you look for one in
+your favorite color--. red.. And without having to
+go back to square one,. Google Search understands
+your full intent. and that you're
+looking specifically. for e-bikes in red that would
+be good for a five-mile commute. with hills.. And even when you're in
+this conversational mode,. it's an integrated experience.. So you can simply scroll to
+see other search results.. Now, maybe this e-bike seems to
+be a good fit for your commute.. With just a click,
+you're able to see. a variety of retailers
+that have it in stock,. and some that offer free
+delivery or returns.. You'll also see current
+prices, including deals,. and can seamlessly go
+to a merchant site,. check out, and
+turn your attention.. 
+helogetting ready to ride.. These new generative
+AI capabilities. also unlock a whole new category
+of experiences on Search.. It could help you create a
+clever name for your cycling. club, craft the perfect
+social post to show off. your new wheels, or even test
+your knowledge on bicycle hand. signals.. These are things you
+may never have thought. to ask Search for before.. Shopping is just one example
+of where this can be helpful.. Let's walk through another
+one in a live demo.. What do you say?. [APPLAUSE]. Yeah.. So special shout-out to my
+three-year-old daughter,. who is obsessed with whales.. I wanted to teach
+her about whale song.. So let me go to the
+Google app and ask,. why do whales like to sing?. And so here, I see a snapshot
+that organizes the web results. and gets me to key things I
+want to know so I can understand. quickly that, oh, they sing
+for a lot of different reasons,. like to communicate with other
+whales, but also to find food.. And I can click See More
+to expand here as well... 
+heloin front of thousands
+of people, I'd. be checking out some of
+these web results right now.. They look pretty good.. Now, I'm thinking
+she'd get a kick out. of seeing one up close.. So let me ask, can I see
+whales in California?. And so the LLMs right now
+are working behind the scenes. to generate my
+snapshot, distilling. insights and perspectives
+from across the web.. It looks like, in
+northern California,. I can see humpbacks
+around this time of year.. That's cool.. I'll have to plan to
+take her on a trip soon.. And again, I can see
+some really great results. from across the web.. And if I want to
+refer to the results. of my previous question, I
+can just scroll right up.. Now, she's got a
+birthday coming up,. so I can follow up with "plush
+ones for kids under $40.". Again, the LLMs are organizing
+this information for me.. And this process will
+get faster over time.. These seem like
+some great options.. I think she'll really
+like the second one.. She's into orcas as well.. Phew.. Live demos are always
+a little nerve-racking... 
+helo[APPLAUSE]. What you've seen today
+is just a first look. at how we're experimenting
+with generative AI in Search.. And we're excited to keep
+improving with your feedback. through our Search Labs program.. This new Search generative
+experience, also known as SGE,. will be available in Labs, along
+with some other experiments.. And they'll be rolling
+out in the coming weeks.. If you're in the US, you
+can join the waitlist today. by tapping the Labs icon in the
+latest version of the Google. app or Chrome desktop.. This new experience really
+reflects the beginning. of a new chapter.. And you can think of
+this evolution as Search,. supercharged.. Search has been at the core
+of our timeless mission. for 25 years.. And as we build for
+the future, we're. so excited for you to
+turn to Google for things. you never dreamed it could.. Here's an early look at what's
+to come for AI in Search.. [VIDEO PLAYBACK]. [YUNG CXREAL & BABY
+FRANKIE, "LIKE WHOA"]. - Yes, yes, yes.. - You got this.. Let's go.. - Is a hot dog sandwich?.. 
+helo- Yes.. - No.. - Yes!
+- No!. [END PLAYBACK]. [APPLAUSE]. SUNDAR PICHAI: Is a
+hot dog a sandwich?. I think it's more like a
+taco because the bread goes. around it.. Comes from the expert
+viewpoint of a vegetarian.. Thanks, Cathy.. It's so exciting
+to see how we are. evolving Search,
+and look forward. to building it with you all.. So far today, we
+have shared how AI. can help unlock creativity,
+productivity, and knowledge.. As you can see, AI is not
+only a powerful enabler.. It's also a big platform shift.. Every business and
+organization is. thinking about how to
+drive transformation.. That's why we are focused on
+making it easy and scalable. for others to innovate with AI.. That means providing the
+most advanced computing. infrastructure, including
+state-of-the-art TPUs and GPUs,. and expanding access to Google's
+latest foundation models that. have been rigorously
+tested in our own products.. We are also working to
+provide world-class tooling. so customers can train,
+fine-tune, and run.. 
+helosecurity, and privacy.. To tell you more about how
+we are doing this with Google. Cloud, please welcome Thomas.. [MUSIC PLAYING]. [APPLAUSE]. THOMAS KURIAN: All
+of the investments. you've heard about today are
+also coming to businesses.. So whether you're an
+individual developer. or a full-scale enterprise,
+Google is using the power of AI. to transform the way you work.. There are already
+thousands of companies. using our generative AI platform
+to create amazing content,. to synthesize and
+organize information,. to automate processes, and
+to build incredible customer. experiences.. And yes, each and every
+one of you can too.. There are three
+ways Google Cloud. can help you take advantage
+of the massive opportunity. in front of you.. First, you can build
+generative applications. using our AI platform Vertex AI.. With Vertex, you can
+access foundation models. for chat, text, and image.. You just select the
+model you want to use,. create prompts to
+tune the model,. and you can even fine-tune
+the model's weights.. 
+heloTo help you retrieve fresh
+and factual information. from your company's databases,
+your corporate intranet,. your website, and
+enterprise applications,. we offer Enterprise Search.. Our AI platform is so
+compelling for businesses. because it guarantees
+the privacy of your data.. With both Vertex and
+Enterprise Search,. you have sole
+control of your data. and the costs of using
+generative AI models.. In other words, your data is
+your data and no one else's.. You can also choose the best
+model for your specific needs. across many sizes that have
+been optimized for cost,. latency, and quality.. Many leading companies are using
+our alternative AI technologies. to build super
+cool applications,. and we've all been blown
+away by what they're doing.. Let's hear from a few of them.. [VIDEO PLAYBACK]. [MUSIC PLAYING]. - The unique thing
+about Google Cloud. is the expansive offering.. - The Google
+partnership has taught. us to lean in, to iterate,
+to test and learn, and have. the courage to fail
+fast where we need to... 
+heloAnd so there's a lot
+for us to learn directly. from the engineering team.. - Now, with generative AI,
+we can have much smarter. conversations with
+our customers.. - We have been really enjoying
+taking the latest and greatest. technology and making
+that accessible. to our entire community.. - Getting early
+access to Vertex APIs. opens a lot of
+doors for us to be. more efficient and productive
+in the way we create experiences. for our customers.. - The act of making software
+is really suddenly opened up. to everyone.. Now, you can talk to the AI
+on the Replit app and tell it,. make me a workout program.. And with one click, we can
+deploy it to a Google Cloud VM,. and you have an app that you
+just talked into existence.. - We have an extraordinarily
+exciting feature. in the pipeline.. It's called Magic Video, and it
+enables you to take your videos. and images, and with
+just a couple of clicks,. turn that into a cohesive story.. It is powered by
+Google's PaLM technology,. and it truly empowers
+everyone to be.. 
+helo- Folks come to a Wendy's,
+and a lot of times,. they use some of our acronyms.. The junior bacon
+cheeseburger, they'll. come in and-- give me a JBC.. We need to understand
+what that really means.. And we say, I can help make
+sure that order is accurate. every single time.. - Generative AI
+can be incorporated. in all the business processes
+Deutsche Bank is running.. - The partnership with
+Google has inspired us. to leverage technology to truly
+transform the whole restaurant. experience.. - There is no limitations.. - There's no other
+way to describe it.. We're just living in the future.. [END PLAYBACK]. [APPLAUSE]. We're also doing this with
+partners, like character.ai.. We provide Character
+with the world's. most performant and
+cost-efficient infrastructure. for training and
+serving the models.. By combining its
+own AI capabilities. with those of Google
+Cloud, consumers. can create their own deeply
+personalized characters. and interact with them.. We're also partnering
+with Salesforce.. 
+helowith their data Cloud in
+Einstein, their AI-infused CRM. Assistant.. In fact, we're working with
+many other incredible partners,. including consultancies,
+software-as-a-service leaders,. consumer internet companies, and
+many more to build remarkable. experiences with
+our AI technologies.. In addition to PaLM 2,
+we're excited to introduce. three new models in Vertex,
+including Imagen, which powers. image generation, editing,
+and customization from text. inputs, Codey for code
+completion and generation,. which you can train
+on your own code base. to help you build
+applications faster,. and Chirp, our universal
+speech model which. brings speech-to-text accuracy
+for over 300 languages.. We're also introducing
+reinforcement. learning from human
+feedback into Vertex AI.. You can fine-tune
+pre-trained models. by incorporating human
+feedback to further improve. the model's results.. You can also fine-tune
+a model on domain-. or industry-specific data, as we
+have what Sec-PaLM and Med-PaLM. so they become
+even more powerful... 
+heloand I encourage each and
+every one of you to try them.. [APPLAUSE]. The second way we're
+helping you take advantage. of this opportunity
+is by introducing. Duet AI for Google Cloud.. Earlier, Aparna told you about
+Duet AI for Google Workspace. and how it is an
+always-on AI collaborator. to help people get things done.. Well, the same thing
+is true with Duet AI. for Google Cloud, which
+serves as an AI expert pair. programmer.. Duet uses generative AI to
+provide developers assistance,. wherever you need it, within
+the IDE, the Cloud Console,. or directly within chat.. It can provide you
+contextual code completion,. offer suggestions tuned
+to your code base,. and generate entire
+functions in real time.. It can even assist you with code
+reviews and code inspection.. Hen will show you more
+in the developer keynote.. The third way we're helping
+you seize this moment. is by building all
+of these capabilities. on our AI-optimized
+infrastructure.. This infrastructure makes
+large-scale training workloads.. 
+helocompared to any
+alternatives out there.. Look-- when you nearly
+double performance--. [APPLAUSE]. When you nearly
+double performance. for less than half the
+cost, amazing things happen.. Today, we're excited to
+announce a new addition. to this infrastructure family,
+the A3 Virtual Machines,. based on Nvidia's
+latest H100 GPUs.. We provide the widest
+choice of compute options. for leading AI companies,
+like Entropik and Midjourney,. to build their future
+on Google Cloud.. And yes, there's so
+much more to come.. Next, Josh is here to
+show you exactly how. we're making it
+easy and scalable. for every developer to
+innovate with AI and PaLM 2.. [MUSIC PLAYING]. [APPLAUSE]. JOSH WOODWARD: Thanks, Thomas.. Our work is enabling
+businesses, and it's also. empowering developers.. PaLM 2, our most
+capable language model. that Sundar talked about,
+powers the PaLM API.. Since March, we've been running
+a private preview with our PaLM. API, and it's been amazing to
+see how quickly developers have. used it in their applications... 
+heloyou can choose
+your own adventure,. forever changing story time.. Or Game On Technology,
+a company that. makes chat apps for sports
+fans and retail brands. to connect with their audiences.. And there's also Wendy's.. They're using the PaLM
+API to help customers. place that correct order
+for the junior bacon. cheeseburger they talked about
+in their Talk to Menu feature.. But I'm most excited
+about the response. we've gotten from the
+developer tools community.. Developers want choice when
+it comes to language models,. and we're working with leading
+developer tools companies,. like LangChain, Chroma, and many
+more to support the PaLM API.. We've also integrated it
+into Google Developer tools. like Firebase and Colab.. [APPLAUSE]. You can hear a lot more about
+the PaLM API in the developer. keynote and sign up today.. Now, to show you just how
+powerful the PaLM API is,. I want to share one concept
+that five engineers at Google. put together over
+the last few weeks.. The idea is called
+Project Tailwind,.. 
+helothat helps you learn faster.. Like a real notebook, your
+notes and your sources power. Tailwind.. How it works is you can simply
+pick the files from Google. Drive and it effectively creates
+a personalized and private AI. model that has expertise in the
+information that you give it.. We've been developing
+this idea with authors,. like Stephen Johnson, and
+testing it at universities,. like Arizona State and the
+University of Oklahoma,. where I went to school.. You want to see how it works?. [APPLAUSE]. Let's do a live demo.. Now, imagine I'm a student
+taking a computer science. history class.. I'll open up Tailwind,
+and I can quickly. see, in Google Drive, all my
+different notes and assignments. and readings.. I can insert them.. And what will happen when
+Tailwind loads up is you. can see my different notes
+and articles on the side.. Here they are, in the middle.. And it instantly
+creates a study guide. on the right to
+give me bearings.. You can see it's pulling out key
+concepts and questions grounded.. 
+heloNow, I can come over
+here and quickly. change it to go across all
+the different sources and type. something like "create
+glossary for Hopper.". And what's going to
+happen behind the scenes. is it'll automatically
+compile a glossary associated. with all the different
+notes and articles. relating to Grace Hopper,
+the computer science history. pioneer.. Look at this-- FLOW-MATIC,
+COBOL, compiler,. all created based on my notes.. Now, let's try one more.. I'm going to try something else
+called "different viewpoints. on Dynabook.". So the Dynabook, this was
+a concept from Alan Kay.. Again, Tailwind
+going out, finding. all the different things.. You can see how
+quick it comes back.. There it is.. And what's interesting
+here is it's helping. me think through the concept.. So it's giving me
+different viewpoints.. It was a visionary product.. It was a missed opportunity.. But my favorite part
+is it shows its work.. You can see the citations here.. When I hover over, here's
+something from my class notes... 
+heloIt's all right here,
+grounded in my sources.. [APPLAUSE]. Now, project Tailwind is
+still in its early days,. but we've had so much fun
+making this prototype,. and we realized, it's
+not just for students.. It's helpful for anyone
+synthesizing information. from many different sources
+that you choose, like. writers researching an
+article, or analysts. going through earnings
+calls, or even lawyers. preparing for a case.. Imagine collaborating
+with an AI that's. grounded in what you've
+read in all of your notes.. We want to make it
+available to try it out. if you want to see it.. [APPLAUSE]. There's a lot more
+can do with PaLM 2.. And we can't wait to see what
+you build using the PaLM API.. Generative AI is
+changing what it. means to develop new products.. At Google, we offer the
+best ML infrastructure,. with powerful models,
+including those in Vertex,. and the APIs and tools
+to quickly generate. your own applications.. Building bold AI requires
+a responsible approach.. So let me hand it over
+to James to share more... 
+helo[MUSIC PLAYING]. [APPLAUSE]. JAMES MANYIKA: Hi, everyone.. I'm James.. In addition to research, I
+lead a new area at Google. called technology and society.. Growing up in
+Zimbabwe, I could not. have imagined all the amazing
+and groundbreaking innovations. that have been presented
+on this stage today.. And while I feel it's
+important to celebrate. the incredible progress in
+AI and the immense potential. that it has for
+people in society. everywhere, we must
+also acknowledge. that it's an emerging technology
+that is still being developed,. and there's still
+so much more to do.. Earlier, you heard Sundar
+say that our approach to AI. must be both bold
+and responsible.. While there's a natural
+tension between the two,. we believe it's
+not only possible,. but in fact critical to embrace
+that tension productively.. The only way to be truly
+bold in the long term. is to be responsible
+from the start.. Our field-defining research
+is helping scientists. make bold advances in
+many scientific fields,.. 
+heloTake, for example, Google
+DeepMind's AlphaFold,. which can accurately
+predict the 3D. shapes of 200 million proteins.. That's nearly all the catalog
+proteins known to science.. AlphaFold gave us the equivalent
+of nearly 400 million years. of progress in just weeks.. [APPLAUSE]. So far, more than one million
+researchers around the world. have used AlphaFold's
+predictions,. including Fang Zheng's
+pioneering lab at the Broad. Institute of MIT and Harvard.. [APPLAUSE]. Yeah.. In fact, in March this year,
+Zheng and his colleagues at MIT. announced that
+they'd used AlphaFold. to develop a novel molecular
+syringe which could deliver. drugs to help improve the
+effectiveness of treatments. for diseases like cancer.. [APPLAUSE]. And while it's
+exhilarating to see. such bold and beneficial
+breakthroughs,. AI also has the potential
+to worsen existing societal. challenges, like unfair bias,
+as well as pose new challenges. as it becomes more advanced
+and new users emerge.. That's why we believe
+it's imperative to take.. 
+heloThis work centers
+around our AI principles. that we first
+established in 2018.. These principles guide
+product development,. and they help us assess
+every AI application.. They prompt questions like,
+will it be socially beneficial,. or could it lead
+to harm in any way?. One area that is top of mind
+for us is misinformation.. Generative AI makes
+it easier than ever. to create new
+content, but it also. raises additional questions
+about its trustworthiness.. That's why we're developing
+and providing people with tools. to evaluate online information.. For example, have you come
+across a photo on a website,. or one shared by a friend,
+with very little context,. like this one of
+the moon landing,. and found yourself
+wondering, is this reliable?. I have, and I'm sure
+many of you have as well.. In the coming months, we're
+adding two new ways for people. to evaluate images.. First, with our About this
+Image tool in Google Search,. you'll be able to see important
+information, such as when. and where similar images
+may have first appeared,.. 
+heloincluding news, fact
+checking, and social sites,. all this providing you
+with helpful context. to determine if it's reliable.. Later this year, you'll
+also be able to use it. if you search for an image or
+screenshot using Google Lens. or when you're on
+websites in Chrome.. As we begin to roll out the
+generative image capabilities,. like Sundar mentioned,
+we will ensure. that every one of our
+AI-generated images. has metadata and markup
+in the original file. to give you context
+if you come across it. outside of our platforms.. Not only that--
+creators and publishers. will be able to add
+similar metadata,. so we'll be able to
+see a label in images. in Google Search marking
+them as AI-generated.. [APPLAUSE]. As we apply our AI
+principles, we also. start to see potential
+tensions when it comes. to being bold and responsible.. Here's an example.. Universal Translator is an
+experimental video dubbing. service that helps experts
+translate a speaker's voice. while also matching
+their lip movements... 
+helocourse created in partnership
+with Arizona State University.. What many college
+students don't realize. is that knowing
+when to ask for help. and then following through
+on using helpful resources. is actually a hallmark of
+becoming a productive adult.. [SPEAKING SPANISH]. [APPLAUSE]. Yeah, it's cool.. We use next-generation
+translation models. to translate what the
+speaker is saying,. models to replicate
+the style and the tone,. and then match the
+speaker's lip movements.. Then we bring it all together.. This is an enormous step forward
+for learning comprehension.. And we are seeing promising
+results of course completion. rates.. But there's an
+inherent tension here.. You can see how this can
+be incredibly beneficial,. but some of the same
+underlying technology. could be misused by bad
+actors to create deep fakes.. So we built this
+service with guardrails. to help prevent misuse and
+to make it accessible only. to authorized partners.. [APPLAUSE]. And as Sundar
+mentioned, soon, we'll. be integrating new innovations
+in watermarking into our latest.. 
+heloof misinformation.. Our AI principles also help
+guide us on what not to do.. For instance, years ago, we
+were the first major company. to decide not to make a
+general-purpose facial. recognition API
+commercially available.. We felt there weren't
+adequate safeguards in place.. Another way we live up
+to our AI principles. is with innovations
+to tackle challenges. as they emerge, like reducing
+the risk of problematic outputs. that may be generated
+by our models.. We are one of the first in the
+industry to develop and launch. automated adversarial
+testing using large language. model technology.. We do this for queries like
+this to help uncover and reduce. inaccurate outputs, like
+the one on the left,. and make them better,
+like the one on the right.. We're doing this at a scale
+that's never been done before. at Google, significantly
+improving the speed, quality,. and coverage of
+testing, allowing. safety experts to focus on
+the most difficult cases.. And we're sharing these
+innovations with others... 
+heloto help publishers
+mitigate toxicity,. is now being used in
+large language models.. Academic researchers have
+used our perspective API. to create an industry
+evaluation standard.. And today, all significant
+large language models,. including those from
+OpenAI and Entropik,. incorporate this standard
+to evaluate toxicity. generated by their own models.. Building AI-- building--. sorry.. [APPLAUSE]. Building AI responsibly must be
+a collective effort involving. researchers, social scientists,
+industry experts, governments,. and everyday people, as well
+as creators and publishers.. Everyone benefits from a
+vibrant content ecosystem, today. and in the future.. That's why we're
+getting feedback. and we'll be working with
+the web community on ways. to give publishers choice and
+control over their web content.. It's such an exciting time.. There's so much we're
+going to accomplish. and so much we must
+get right together.. We look forward to
+working with all of you.. And now, I'll hand
+it off to Sameer,.. 
+helobringing to Android.. Thank you.. [APPLAUSE]. SAMEER SAMAT: Hi, everyone.. It's great to be back at Google
+I/O. As you've heard today,. our bold and responsible
+approach to AI. can unlock people's
+creativity and potential.. But how can all this
+helpfulness reach. as many people as possible?. At Google, our computing
+platforms and hardware products. have been integral
+to that mission.. From the beginning
+of Android, we. believed that an open OS
+would enable a whole ecosystem. and bring smartphones
+to everyone.. And as we all add more devices
+to our lives, like tablets,. TVs, cars, and
+more, this openness. creates the freedom to
+choose the devices that. work best for you.. With more than 3
+billion Android devices,. we've now seen the benefits of
+using AI to improve experiences. at scale.. For example, this
+past year, Android. used AI models to protect
+users for more than 100. billion suspected spam
+messages and calls.. [APPLAUSE]. We can all agree
+that's pretty useful.. There are so many
+opportunities where.. 
+heloToday, we'll talk
+about two big ways. Android is bringing that benefit
+of computing to everyone.. First, continuing to connect you
+to the most complete ecosystem. of devices, where everything
+works better together.. And second, using AI
+to make the things you. love about Android even better,
+starting with customization. and expression.. Let's begin by talking about
+Android's ecosystem of devices,. starting with two of
+the most important--. tablets and watches.. Over the last two years, we've
+redesigned the experience. on large screens, including
+tablets and foldables.. We introduced a new
+system for multitasking. that makes it so much
+easier to take advantage. of all that extra screen real
+estate and seamlessly move. between apps.. We've made huge investments to
+optimize more than 50 Google. Apps, including Gmail,
+Photos, and Meet.. And we're working
+closely with partners,. such as Minecraft,
+Spotify, and Disney. Plus to build beautiful
+experiences that feel intuitive. on larger screens... 
+heloand there are more great
+devices to pick from than ever.. Stay tuned for our
+hardware announcements,. where you just might see some
+of the awesome new features. we're building for
+tablets in action.. It's really exciting
+to see the--. [APPLAUSE]. It's really exciting to see
+the momentum in smart watches. as well.. Wear OS is now the fastest
+growing watch platform,. just two years after launching
+Wear OS 3 with Samsung.. A top ask from fans has been
+four more native messaging. apps on the watch.. I'm excited to
+share that WhatsApp. is bringing their first-ever
+watch app to Wear this summer.. I'm really enjoying using
+WhatsApp on my wrist.. I can start a new conversation,
+reply to messages by voice,. and even take calls.. I can't wait for you to try it.. Our partnership on Wear OS
+with Samsung has been amazing,. and I'm excited
+about our new Android. collaboration on immersive XR.. We'll share more
+later this year.. Now, we all know that to
+get the best experience,. all these devices need to
+work seamlessly together... 
+heloThat's why we built
+Fast Pair, which. lets you easily connect
+more than 300 headphones,. and while we have Nearby
+Share to easily move. files between your phone,
+tablet, or Windows and Chrome. OS computer, and cast
+to make streaming video. and audio to your
+devices ultra simple,. with support from
+over 3,000 apps.. It's great to have all
+your devices connected.. But if you're
+anything like me, it. can be hard to keep
+track of all this stuff.. Just ask my family.. I misplace my earbuds at
+least three times a day,. which is why we're launching
+a major update to our Find My. Device experience to support
+a wide range of devices. in your life, including
+headphones, tablets, and more.. It's powered by a network of
+billions of Android devices. around the world.. So if you leave your
+earbuds at the gym,. other nearby Android devices
+can help you locate them.. And for other important
+things in your life,. like your bicycle or suitcase,
+Tile, Chipolo, and others. will have tracker tags
+that work with the.. 
+helo[APPLAUSE]. Now, we took some time
+to really get this right,. because protecting your
+privacy and safety is vital.. From the start, we
+designed the network. in a privacy-preserving way,
+where location information. is encrypted.. No one else can tell where
+your devices are located,. not even Google.. This is also why we're
+introducing unknown tracker. alerts.. Your phone will tell you
+if an unrecognized tracking. tag is moving with you
+and help you locate it.. [APPLAUSE]. It's important these warnings
+work on your Android phone,. but on other types
+of phones as well.. That's why, last week, we
+published a new industry. standard with Apple, outlining
+how unknown tracker alerts will. work across all smartphones.. [APPLAUSE]. Both the new Find My Device
+experience and unknown tracker. alerts are coming
+later this summer.. Now, we've talked a lot
+about connecting devices,. but Android is also
+about connecting people.. After all, phones
+were created for us. to communicate with
+our friends and family... 
+heloyou shouldn't have to worry
+about whether everyone is. using the same type of phone.. Sending high-quality--. [APPLAUSE]. Sending high-quality
+images and video,. getting typing notifications,
+and end-to-end encryption. should all just work.. That's why we've worked with our
+partners on upgrading old SMS. and MMS technology
+to a modern standard. called RCS that makes
+all of this possible.. And there are now over 800
+million people with RCS,. on our way to over a billion
+by the end of the year.. We hope every mobile operating
+system gets the message. and adopts RCS--. [APPLAUSE]. --so we can all hang out
+in the group chat together,. no matter what
+device we're using.. Whether it's connecting
+with your loved ones. or connecting all
+of your devices,. Android's complete
+ecosystem makes it easy.. Another thing people
+love about Android. is the ability to
+customize their devices. and express themselves.. Here's Dave to
+tell you how we're. taking this to the next
+level with generative AI.. [MUSIC PLAYING].. 
+heloDAVE BURKE: All right.. Thanks, Sameer, and
+hello, everyone.. So here's the thing.. People want to
+express themselves. in the products
+they use every day,. from the clothes they
+wear to the car they drive. to their surroundings at home.. We believe the same should
+be true for your technology.. Your phone should feel like
+it was made just for you.. And that's why
+customization has always. been at the core of
+the Android experience.. This year, we're combining
+Android's guided customization. with Google's advances
+in generative AI. so your phone can feel
+even more personal.. So let me show you
+what this looks like.. To start, messages
+and conversations. can be so much more
+expressive, fun. and, playful with Magic Compose.. It's a new feature coming
+to Google messages powered. by generative AI
+that helps you add. that extra spark of personality
+to your conversation.. So just type your
+message like you. normally would, and then
+choose how you want to sound.. Magic Compose will do the
+rest so your messages give.. 
+heloor if you want, in the style
+of a certain playwright.. To try or not to try this
+feature-- that is the question.. Now, we also have
+new personalizations. coming to the OS layer.. At Google I/O two years ago,
+we introduced Material You.. It's a design system that
+combines user inspiration. with dynamic color science for
+a fully personalized experience.. We're continuing to expand
+on this in Android 14,. with all-new customization
+options coming. to your lockscreen.. So now, I can add my
+own personalized style. to the lockscreen clock so
+it looks just the way I want.. And what's more, with the
+new customizable lockscreen. shortcuts, I can instantly
+jump into my most. frequent activities.. Of course, what really makes
+your lock screen and home. screen yours is the wallpaper.. And it's the first
+thing that many of us. set when we get a new phone.. Now, emojis are such
+a fun and simple way. of expressing yourself.. So we thought, wouldn't
+it be cool to bring them. to your wallpaper?. So with emoji
+wallpapers, you choose.. 
+helopick the perfect pattern, and
+then find just the right color. to bring them all together.. So let's take a look.. And I'm not going
+to use the laptops.. I'm going to use a phone.. So let's see.. I'm going to go into
+the wallpaper picker. and I'm going to tap on
+the new option for emojis.. And I'm feeling it a
+kind of, I don't know,. zany mood with all you
+people looking at me.. So I'm going to pick
+this guy and this guy.. And let's see, who
+else is in here?. This one looks pretty cool,
+like, the eight-bit one.. And obviously that one.. And somebody said there was
+a duck on stage earlier.. So let's go find a duck.. Hello, duck.. Where is the duck?. Can anyone see a duck?. Where has the duck gone?. There is the duck.. All right, there he is.. I got some ducks.. OK, cool.. And then pattern-wise, we've got
+a bunch of different patterns. you can pick.. I'm going to pick mosaic.. That's my favorite.. I'm going to play with the zoom.. Let's see.. We'll get this just right.. OK, I've got enough
+ducks in there... 
+heloAnd then colors.. Let's see.. Ooh, that pops.. Let's go with a more muted one.. Or maybe that one.. That one looks good.. That looks good.
+I like that one.. All right, select that, set the
+wallpaper, and then I go boom.. Looks pretty cool, huh?. [APPLAUSE]. And the little emojis, they
+react when you tap them,. which I find--. [LAUGHTER]. I find this
+unusually satisfying.. And how much time have I got?. OK, I'll move on.. OK, so of course,
+many of us like. to use a favorite photo
+for our wallpaper.. And so with a new cinematic
+wallpaper feature,. you can create a stunning 3D
+image from any regular photo. and then use it
+as your wallpaper.. So let's take a look.. So this time, I'm going
+to go into My Photos.. And I really like this
+photo of my daughter, so. let me select that.. And you'll notice there's
+a Sparkle icon at the top.. So if I tap that, I get a new
+option for cinematic wallpaper.. So let me activate that.. And then wait for it--. boom.. Now, under the hood, we're
+using an on-device convolutional.. 
+heloa generative adversarial
+network for in-painting. as the background moves.. The result is a beautiful,
+cinematic 3D photo.. So then let me
+set the wallpaper,. and then I'm going
+to return home.. And check out the parallax
+effect as I tilt the device.. It literally jumps
+off the screen.. So both cinematic wallpapers
+and emoji wallpapers. are coming first to
+Pixel devices next month.. So let's say you don't have the
+perfect wallpaper photo handy,. or you just want to have fun
+and create something new.. With our new generative
+AI wallpapers,. you choose what
+inspires you and then. we create a beautiful
+wallpaper to fit your vision.. So let's take a look.. So this time, I'm
+going to go and select. Create a Wallpaper with AI.. And I like classic art,
+so let me tap that.. Now, you'll notice,
+at the bottom,. we use structured prompts
+to make it easier to create.. So for example, I can pick--. what am I going to do?. City by the bay in a post
+impressionist style cool Then. I type--. tap Create Wallpaper... 
+heloNow, behind the
+scenes, we're using. Google's text-to-image diffusion
+models to generate completely. new and original wallpapers.. And I can swipe through and
+see all the different options. that it's created.. And some of these look
+really cool, right?. [APPLAUSE]. So let me pick this one.. I like this one.. So select that,
+set the wallpaper,. and then return home.. Cool.. So now, out of the billions of
+Android phones in the world,. no other phone will
+be quite like mine.. And thanks to Material You, you
+can see that the system's color. palette is automatically
+adapted to match. the wallpaper I created.. Generative AI wallpapers
+will be coming this fall.. [APPLAUSE]. So from a thriving
+ecosystem of devices. to AI-powered expression,
+there is so much. going on right now in Android.. OK, Rick is up next to show you
+how this Android innovation is. coming to life in the
+Pixel family of devices.. Thank you.. [MUSIC PLAYING]. [APPLAUSE]. RICK OSTERLOH: The pace of AI
+innovation over the past year.. 
+heloAs you heard Sundar
+talk about earlier,. new advances are
+transforming everything,. from creativity and productivity
+to knowledge and learning.. Now, let's talk about
+what that innovation means. for Pixel, which
+has been leading. the way in AI-driven hardware
+experiences for years.. Now, from the
+beginning, Pixel was. conceived as an AI-first
+mobile computer,. bringing together all
+the amazing breakthroughs. across the company and putting
+them into a Google device. you can hold in your hand.. Other phones have AI features,
+but Pixel is the only phone. with AI at the center.. And I mean that literally.. The Google Tensor
+G2 chip is custom. designed to put Google's
+leading-edge AI research. to work in our Pixel devices.. By combining Tensor's
+on-device intelligence. with Google's AI
+in the cloud, Pixel. delivers truly personal AI.. Your device adapts to your
+own needs and preferences,. and it anticipates
+how it can help you. save time and get more done.. This personal AI enables all
+those helpful experiences.. 
+heloavailable on any
+other mobile device,. like Pixel Call Assist,
+which helps you avoid long. hold times, navigate
+phone tree menus,. ignore the calls you don't want,
+and get better sound quality. on the calls you do want.. Personally, I also enable
+helpful Pixel Speech. experiences.. On-device machine learning
+translates different languages. for you, transcribes
+conversations in real time,. and understands how
+you talk and type.. And you're protected with Pixel
+Safe, a collection of features. that keep you safe online
+and in the real world.. And of course,
+there's Pixel Camera.. [APPLAUSE]. It understands faces,
+expressions, and skin tones. to better depict
+you and the people. you care about so your photos
+will always look amazing.. We're also constantly
+working to make. Pixel camera more inclusive
+and more accessible,. with features like Real
+Tone and Guided Frame.. [APPLAUSE]. Pixel experiences
+continue to be completely. unique in mobile computing.. And that's because Pixel is
+the only phone engineered.. 
+heloGoogle Tensor, Android, and AI.. [APPLAUSE]. With this combination of
+hardware and software,. Pixel lets you experience all
+those incredible new AI-powered. features you saw
+today in one place.. For example, the new
+Magic Editor and Google. Photos that Sundar
+showed you, it'll. be available for early access
+to select Pixel phones later. this year, opening up a whole
+new avenue of creativity. with your photos.. And Dave just showed you
+how Android's adding depth. to how you can express yourself
+with generative AI wallpapers.. And across Search,
+Workspace, and Bard,. new features powered by
+large language models. can Spark your imagination,
+make big tasks more manageable,. and help you find better answers
+to everyday questions, all. from your Pixel device.. We have so many more exciting
+developments in the space,. and we can't wait to show you
+more in the coming months.. Now, it's probably no
+surprise that as AI. keeps getting more
+and more helpful,. our Pixel portfolio keeps
+growing in popularity... 
+heloyet with both users
+and respected reviewers. and analysts.. [APPLAUSE]. Our Pixel phones won multiple
+Phone of the Year awards.. [APPLAUSE]. Yes, thank you.. And in the premium
+smartphone category,. Google is the fastest
+growing OEM in our markets.. [APPLAUSE]. One of our more popular
+products is the Pixel a series,. which delivers incredible--. [APPLAUSE]. Thank you.. I'm glad you like it.. It delivers incredible
+Pixel performance. in a very affordable device.. And to continue
+the I/O tradition,. let me show you the newest
+member of our a series.. [APPLAUSE]. Today, we're
+completely upgrading. everything you love
+about our a series. with the gorgeous new Pixel 7a.. Like all Pixel 7 series
+devices, Pixel 7a. is powered by our flagship
+Google Tensor G2 chip,. and it's paired with 8
+gigabytes of RAM, which. ensures Pixel 7a delivers
+best in class performance. and intelligence.. And you're going
+to love the camera.. The 7a takes the crown from
+6A as the highest-rated camera. in its class, with the
+biggest upgrade ever.. 
+helomain camera sensor.. [APPLAUSE]. Now, here's the best part.. Pixel 7a is available
+today, starting at $499.. It's an unbeatable combination
+of design, performance,. and photography, all
+at a great value.. And you can check out the
+entire Pixel 7a lineup. on the Google Store, including
+our exclusive coral color.. Now, next up, we're
+going to show you. how we're continuing to
+expand the Pixel portfolio. into new form factors.. Yeah.. [APPLAUSE]. Like foldables and tablets.. You can see them right there.. It's a complete ecosystem of
+AI-powered devices engineered. by Google.. Here's Rose to show you what
+a larger-screen Pixel can. do for you.. [MUSIC PLAYING]. [APPLAUSE]. ROSE YAO: OK, let's
+talk tablets, which have. been a little bit frustrating.. It's always hard to
+know where they fit in,. and they haven't really
+changed in the past 10 years.. A lot of times, they are
+sitting forgotten in the drawer,. and that one moment you need
+it, it is out of battery.. We believe tablets, and
+large screens in general,.. 
+heloSo we set out to build
+something different,. making big investments across
+Google Apps, Android, and Pixel. to reimagine how large
+screens can deliver. a more helpful experience.. Pixel Tablet is the only
+tablet engineered by Google. and designed specifically
+to be helpful in your hand. and in the place they
+are used the most--. the home.. We designed the Pixel
+Tablet to uniquely deliver. helpful Pixel experiences.. And that starts with
+great hardware--. a beautiful, 11-inch,
+high-resolution display. with crisp audio from the four
+built-in speakers, a premium. aluminum enclosure with
+a nanoceramic coating. that feels great in the hand
+and is cool to the touch.. The world's best Android
+experience on a tablet. powered by Google Tensor G2
+for long-lasting battery life. and cutting-edge personal AI.. For example, with Tensor G2,
+we optimized the Pixel camera. specifically for video calling.. Tablets are fantastic
+video calling devices,. and with Pixel Tablet, you
+are always in frame, in focus,.. 
+heloThe large screen makes Pixel
+Tablet the best Pixel device. for editing photos, with
+AI-powered tools like Magic. Eraser and Photo Unblur.. Now, typing on a tablet
+can be so frustrating.. With Pixel Speech
+and Tensor G2, we. have the best voice
+recognition, making. voice typing nearly three
+times faster than tapping.. And as Sameer mentioned, we've
+been making huge investments. to create great app experiences
+for larger screens, including. more than 50 of our own apps.. With Pixel Tablet, you're
+getting great tablet hardware. with great tablet apps.. But we saw an opportunity
+to make the tablet even more. helpful in the home.. So we engineered a
+first-of-its-kind charging. speaker dock.. [APPLAUSE]. It gives the tablet
+a home, and now. you never have to worry
+about being charged.. Pixel Tablet is always
+ready to help, 24/7.. When it's docked,
+the new Hub mode. turns Pixel Tablet into a
+beautiful digital photo frame,. a powerful smart
+home controller,. a voice-activated helper, and
+a shared entertainment device... 
+helowith the ultra-fast
+fingerprint sensor,. I can quickly unlock the device
+and get immediate access to all. my favorite Android apps.. So I can quickly find the
+recipe with Side Chef,. or discover a new
+podcast on Spotify,. or find something to watch with
+a tablet-optimized Google TV. app.. Your media is going
+to look and sound. great, with room-filling sound
+from the charging speaker dock.. Pixel Tablet is also
+the ultimate way. to control your
+smart home, and that. starts with a new
+redesigned Google Home app.. It looks great on Pixel
+Tablet, and it brings together. over 80,000 supported smart
+home devices, including all. of your Matter-enabled devices.. We also--. [APPLAUSE]. We also made it really easy to
+access your smart home controls. directly from Hub mode.. With the new home
+panel, any family member. can quickly adjust the
+lights, lock the doors,. or see if a package
+was delivered.. Or if you're lazy like me,
+you can just use your voice.. Now, we know that
+tablets are often shared,.. 
+heloPixel Tablet makes switching
+between users super easy.. So you get your own apps
+and your own content. while maintaining your privacy.. [APPLAUSE]. And my favorite part--. it is so easy to move
+content between devices.. Pixel Tablet is the first
+tablet with Chromecast built in.. So with a few taps--. [APPLAUSE]. --I can easily cast some
+music or my favorite show. from my phone to the tablet.. And then I can just take
+the tablet off the dock. and keep listening or
+watching all around the house.. We designed a new type
+of case for Pixel Tablet. that solves the pain
+of flimsy tablet cases.. It has a built-in stand that
+provides continuous flexibility. and is sturdy at all angles
+so you can comfortably. use your tablet
+anywhere-- on the plane,. in bed, or in the kitchen.. The case easily docks.. You never have to
+take it off to charge.. And it's just another example
+of how we can make the tablet. experience even more helpful.. [APPLAUSE]. The new Pixel Tablet
+comes in three colors.. It is available for
+pre-order today,.. 
+helo[APPLAUSE]. And the best part--. every Pixel Tablet comes bundled
+with the 129 charging speaker. dock for free.. [APPLAUSE]. It is truly the best tablet
+in your hand and in your home.. To give you an idea just how
+helpful Pixel Tablet can be,. we asked TV personality Michelle
+Buteau to put it to the test.. Let's see how that went.. [VIDEO PLAYBACK]. [MUSIC PLAYING]. - When Google asked me to
+spend the day with this tablet,. I was a little apprehensive,
+because I'm not a tech person.. I don't know how things
+work all the time.. But I'm a woman in STEM now.. Some days, I could
+barely find the floor,. let alone a charger
+for something.. So when the Google
+folks said something. about a tablet that docks, I was
+like, OK, that Google proofing.. I am, on average--. two to five meetings a day.. Today, I got stuck on all these
+features, honey-- the 360 of it. all.. The last time I was around
+this much sand, some of it. got caught in my belly
+button, and I had a pearl. two weeks later.. Look, it's a bird!.. 
+heloSix shows just popped up
+based off of my preferences.. And they were like, hey, girl.. That would have made it
+funnier, but that was good.. My husband is actually
+a photographer,. so I have to rely on him to
+make everything nice and pretty.. But now-- I love this
+picture of me and my son,. but there's a boom mic there.. Look, it's right here.. You see this one?. Get this mic.. You see that?. Magic Eraser.. Take a circle or brush--. I'm going to do both.. Boom!. How cute is that?. And so I hope not only
+you guys are happy. with me reviewing this,
+but that you'll also. give me one, because, I mean.. You're getting tired, right?. - I'm not.. - You're not?. OK, because I am.. [END PLAYBACK]. [APPLAUSE]. RICK OSTERLOH: That's a
+pretty good first review.. Now, tablets aren't the
+only large-screen device. we want to show you today.. It's been really exciting
+to see foldables take off. over the past few years.. Android's driven
+so much innovation. in this new form factor, and we
+see tremendous potential here... 
+helohave a versatile
+form factor, making. it great to use both
+folded and unfolded.. It should also have a
+flagship-level camera system. that truly takes advantage of
+the unique design and an app. experience that's fluid and
+seamless across both screens.. Creating a foldable like
+that, it really means pushing. the envelope with
+state-of-the-art technology,. and that means an ultra
+premium $1799 device.. Now, to get there,
+we've been working. closely with our
+Android colleagues. to create a new standard
+for foldable technology.. Introducing Google Pixel Fold.. [APPLAUSE]. It combines Tensor G2,
+Android innovation,. and AI for an
+incredible phone that. unfolds into an
+incredible compact tablet.. It's the only foldable
+engineered by Google. to adapt to how
+you want to use it,. with a familiar front
+display that works great. when it's folded, and
+when it's unfolded,. it's our thinnest phone yet,
+and the thinnest foldable. on the market.. Now, to get there, we had to
+pack a flagship-level phone.. 
+helomeant completely
+redesigning and components. like the telephoto lens, and
+the battery, and a lot more.. So it can fold up and it
+can fit in your pocket. and retain that familiar
+smartphone silhouette. when it's in your hand.. The Pixel fold has three
+times the screen space. of a normal phone.. You unfold it, and you're
+treated to an expansive. 7.6-inch display that opens flat
+with a custom 180-degree fluid. friction hinge.. So you're getting the
+best of both worlds.. It's a powerful smartphone
+when it's convenient. and an immersive tablet
+when you need one.. And like every phone we make,
+Pixel Fold is built to last.. We've extensively
+tested the hinge. to be the most durable
+of any foldable.. Corning Gorilla Glass
+Victus protects it. from exterior scratches, while
+the IPX8 water-resistant design. safeguards against the weather.. And as you'd expect
+from a Pixel device,. Pixel Fold gives you
+entirely new ways. to take stunning photos and
+videos with Pixel camera.. You put the camera in Tabletop
+mode to capture the stars,.. 
+heloAnd use the best camera on
+the phone for your selfies.. The unique combination of form
+factor, triple rear camera. hardware, and personal
+AI with Tensor G2. make it the best
+foldable camera system.. [APPLAUSE]. Now, there are so
+many experiences. that feel even more natural
+with the Pixel Fold.. One is the dual screen
+interpreter mode.. Your Pixel Fold--. [APPLAUSE]. Your Pixel Fold can
+use both displays--. both displays-- to
+provide a live translation. to you and the person
+you're talking to.. So it's really easy to
+connect across languages.. [APPLAUSE]. And powering all of this
+is Google Tensor G2.. Pixel Fold has all the personal
+AI features you'd expect from. a top-of-the-line Pixel device,
+including safety, speech,. and call assist.. Plus, it's got great performance
+for on-the-go multitasking. and entertainment.. And the entire foldable
+experience is built on Android.. So let's get Dave back out
+here to show you the latest. improvements to
+Android you'll get. to experience on a Pixel Fold... 
+heloThanks, Rick.. From new form factors
+customizability. to biometrics and
+computational photography,. Android has always been at the
+forefront of mobile industry. breakthroughs.. And recently, we've been
+working on a ton of features. and improvements for
+large-screen devices. like tablets and foldables.. So who thinks we should
+try a bunch of live demos. on the new Pixel Fold?. [APPLAUSE]. All right, let's do it.. It starts the second
+I unfold the device,. with this stunning
+wallpaper animation.. And the hinge sensor is
+actually driving the animation.. And it's a subtle thing,
+but it makes the device. feel so dynamic and alive.. Yeah, I just love that.. So let's go back to
+the folded state.. And I'm looking at Google Photos
+of a recent snowboarding trip.. Now, the scenery is
+really beautiful.. So I want to show you
+on the big screen.. I just open my phone,
+and the video instantly. expands into this
+gorgeous, full-screen view.. We call this feature
+continuity, and we've. obsessed over every
+millisecond it.. 
+heloto the larger screen.. Now, all work and no play
+makes Davy a dull boy,. so I'm going to message
+my buddy about getting. back out on the mountain.. I can just swipe to bring up
+the new Android taskbar, then. drag Google Messages to the
+side to enter split screen. mode like so.. To inspire my buddy, I'm
+going to send them a photo.. So I can just drag and
+drop from Google Photos. right into my message, like so.. And thanks to the new Jetpack
+drag and drop library,. this is now supported in
+a wide variety of apps,. from Workspace to WhatsApp.. You'll notice we've made
+a bunch of improvements. throughout the OS to take
+advantage of the larger screen.. So for example, here's
+the new split keyboards. for faster typing.. And if I pull down
+from the top, you'll. notice the new two-panel shade
+showing both my notifications. and my quick settings
+at the same time.. Now, Pixel Fold is great
+for productivity on the go.. And if I swipe up
+into Overview, you'll. notice that we now keep the
+multitasking windows paired... 
+heloand Slides earlier to
+prep for this keynote.. And I think I'm following
+most of these tips so far,. but I'm not quite done yet.. I've been warned, by the way.. Anyway, I could even
+adjust the split. to suit the content
+that I'm viewing.. And working this way, it's like
+having a dual monitor set up. in the palm of my hand, allowing
+me to do two things at once--. which reminds me,
+I should probably. send Rick a quick note.. So I'll open Gmail.. And I don't have a
+lot of time, so I'm. going to use the new
+help me write feature.. So let's try this out.. [APPLAUSE]. Don't cheer yet.. Let's see if it works.. OK, Rick-- Rick--. congrats on-- what are
+we going to call this?. Pixel Fold's launch.. Amazing with Android.. And then I probably should say--. not Andrew, Android.. Dave.. It's hard to type with all
+you people looking at me.. All right.. Now, by the power of
+large language models,. allow me to elaborate.. Dear Rick, congratulations
+on the successful launch. of Pixel Fold.. I'm really impressed
+with the device.. 
+heloThe foldable screen
+is a game changer. and I can't wait to see
+what you do with it now.. [APPLAUSE]. That's productivity.. But there's more.. The Pixel Fold is also an
+awesome entertainment device,. and YouTube is just a really
+great showcase for this.. So let's start watching this
+video on the big screen.. Now, look what
+happens when I fold. the device at right angles.. YouTube enters what
+we call Tabletop mode. so that the video
+plays on the top half,. and then we're working on
+adding playback controls. to the bottom half for
+an awesome single-handed. lean-back experience.. And the video just
+keeps playing fluidly. through these transitions
+without losing a beat.. One last thing.. We're adding support
+for switching displays. from within an app.. And Pixel Fold's camera is a
+really great example of that.. Now, by the way, say
+hi to Julie behind me.. She's the real star of the show.. So Pixel Fold has this new
+button on the bottom right.. So I'm going to tap this.. And it means I can
+move the viewfinder.. 
+heloSo let me turn
+the device around.. OK, so why is this interesting?. Well, it means that
+the viewfinder is now. beside the rear camera system.. And that means I can get a
+high-quality, ultra-wide,. amazing selfie with the
+best camera on the device.. Speaking of which-- and you
+knew where this was going--. smile, everybody!. You look awesome.. Woo-hoo!. I always wanted to do that
+at a Google I/O keynote.. So what you're seeing
+here is the culmination. of several years of work,
+in fact, on large screens,. spanning the Android OS
+and the most popular apps. on the Play Store.. All this work comes alive
+on The Amazing new Pixel. Tablet and Pixel Fold.. Check out this video.. Thank you.. [VIDEO PLAYBACK]. [MUSIC PLAYING]. [END PLAYBACK]. [APPLAUSE]. RICK OSTERLOH: Whoo!. That demo was awesome.. Across Pixel and Android,
+we're making huge strides. with large-screen devices.. And we can't wait to get
+Pixel Tablet and Pixel Fold. into your hands.. And you're not going to
+have to wait too long.. You can pre-order Pixel
+Fold starting today,.. 
+heloAnd you'll get the most out
+of our first ultra premium. foldable by pairing
+it with Pixel Watch.. So when you pre-order
+a Pixel Fold,. you'll also get a
+Pixel Watch on us.. [APPLAUSE]. The Pixel family
+continues to grow. into the most dynamic
+mobile hardware. portfolio in the market today.. From a broad selection
+of smartphones. to watches, earbuds, and
+now, tablets and foldables,. there are more ways
+than ever to experience. the helpfulness Pixel is known
+for wherever and whenever you. need it.. Now, let me pass
+it back to Sundar.. Thanks, everyone.. [MUSIC PLAYING]. [APPLAUSE]. SUNDAR PICHAI: Thanks, Rick.. I'm really enjoying the new
+tablet and the first Pixel. foldable phone, and I'm proud
+of the progress Android is. driving across the ecosystem.. As we wrap up, I've
+been reflecting. on the big technology shifts
+that we've all been a part of.. The shift with AI is
+as big as they come.. And that's why it's
+so important that we. make AI helpful for everyone.. We are approaching it boldly,
+with a sense of excitement,.. 
+of information, combined
+with the capabilities. of generative AI, can transform
+Search and all of our products. yet again.. And we are doing
+this responsibly. in a way that underscores
+the deep commitment we. feel to get it right.. No one company
+can do this alone.. Our developer community
+will be key to unlocking. the enormous
+opportunities ahead.. We look forward to working
+together and building together.. So on behalf of all
+of us at Google,. thank you and enjoy
+the rest of I/O.. [APPLAUSE]. [MUSIC PLAYING].. 

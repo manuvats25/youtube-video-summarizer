@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+body{font-family: 'Ubuntu' !important;
+
+     background: url(d.jpg) no-repeat center center fixed; 
+     background-size: cover;
+     backdrop-filter: brightness(129%) blur(5px);
+}
+
+.container_form{
+  color: white;
+
+    width: 60%;
+    margin: auto;
+    margin-top: 15%;
+    margin-bottom: 20%;
+      /* display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center; */
+  z-index: 500
+}
+.header {
+  background-color: rgb(96, 176, 198);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding:5px;
+  font-weight: 400;
+}
+.header a img {
+  margin-left: 25px;
+  color: white;
+}
+.header a h1 {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  margin-top: 8px;
+}
+.header a{
+  text-decoration: none;
+  display: inline-flex;
+}
+footer{
+    /* position: fixed ; */
+    min-height: 30px;
+    /* bottom: 0px; */
+    background-color: rgb(108, 189, 229);
+    width: 100%;
+  margin-top: 4rem;
+    /* margin-left: -8px; */
+}
+footer p{
+  text-align: center;
+}
+
+
+.cards{
+    /* background-color: beige; */
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 8rem auto;
+    /* height: 22vh; */
+    /* position: absolute; */
+
+}
+.card1{
+    /* background-color:#00b8ff; */
+    margin: 20px;
+    display:flex;
+   margin-bottom: 8rem;
+}
+.card1 div{
+  background-color: #00b8ff;
+  display: flex;
+  flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+    font-size: 1.3rem;
+}
+.card2 div{
+  background-color:#00b8ff;
+  display: flex;
+  flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+    margin: 0.5rem 2rem;
+    font-size: 1.3rem;
+}
+.card2{
+    margin: 10%;
+    /* background-color: #00b8ff; */
+    margin: 20px;
+    display: flex;
+}
+
+.feat_ex{
+  width: 80%;
+  background-color:#00b8ff;
+  margin: auto;
+  padding: 2rem;
+}
+.contain_feat p{
+  font-size: 1.3rem;
+
+}
+
+
+
+@media only screen and (max-width: 1200px)
+{
+  .container_form{
+    margin-top: 35% ;
+  }
+    .cards{
+        flex-direction: column;
+
+    }
+    .card1 img,.card2 img{
+      margin: auto
+
+    }
+    .card1{
+      flex-direction: column-reverse;
+
+    }
+    .card1 div{
+      background-color: none;
+      padding: 1rem  1rem;
+    }
+    .card2{
+      flex-direction: column;
+
+    }
+    .card2 div{
+      background-color: none;
+      padding: 1rem  1rem;
+    }
+}
